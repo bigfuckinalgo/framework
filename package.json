@@ -3,15 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cors": "^2.8.5",
+    "d3": "^5.9.1",
+    "d3-transform": "^1.0.5",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "react-scripts": "2.1.5"
+    "react-redux": "^6.0.0",
+    "react-scripts": "^2.1.5",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "topojson-client": "^3.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start --env.build=dev --env.REDUX_TOOLS=extension",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "serve": "ts-node-dev $NODE_DEBUG_OPTION --no-notify -P ./tsconfig.json ./server/backend.ts"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -21,5 +29,19 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "@types/d3": "^5.7.1",
+    "@types/d3-geo": "^1.11.1",
+    "@types/d3-selection": "^1.4.1",
+    "ts-jest": "23.10.4",
+    "ts-loader": "5.2.2",
+    "ts-node-dev": "^1.0.0-pre.18",
+    "tslint": "^5.12.1",
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.0.1",
+    "tslint-react": "^3.6.0",
+    "typescript": "3.1.3"
+  }
 }

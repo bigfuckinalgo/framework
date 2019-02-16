@@ -1,28 +1,47 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
+import React, {Component} from 'react';
 import './App.css';
+import Map from "./Map/Map";
+import * as Reducer from "./Actions/Reducer";
+import * as Actions from "./Actions/Actions";
+import * as Germany from "./Map/Germany";
+import {createStore} from 'redux';
+import { Provider } from 'react-redux';
+import {composeWithDevTools} from 'redux-devtools-extension';
+
+
+const store = createStore(Reducer.loadData, composeWithDevTools());
+store.subscribe(() => {
+    console.log(store.getState());
+})
+store.dispatch(Actions.loadData([new Germany.Team(
+    '12', 'name', 123, 444
+)]));
+store.dispatch(Actions.loadData([new Germany.Team(
+    '12', 'name', 454, 887
+)]));
+
 
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
-  }
+
+    constructor() {
+        super()
+
+
+        this.state = {
+            mapData: [],
+        };
+    }
+
+    render() {
+        return (
+            <Provider store={store}>
+                <div className="App">
+                    <Map/>
+                </div>
+            </Provider>
+
+        );
+    }
 }
 
 export default App;

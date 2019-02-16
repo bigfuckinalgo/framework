@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "strictPropertyInitialization": false,
+    "allowJs": true,
+    "noImplicitAny": false,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "jsx": "preserve",
+    "lib": [
+      "dom",
+      "es2015",
+      "es2016"
+    ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "outDir": "./dist",
+    "pretty": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "strict": false,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "es6",
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true
+  },
+  "include": [
+    "node_modules/@types/**/*",
+    "typings.d.ts",
+    "config/**/*",
+    "src/**/*",
+    "stories/**/*",
+    "test/**/*"
+  ]
+}
