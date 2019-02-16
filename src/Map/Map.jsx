@@ -8,7 +8,7 @@ class Map extends Component {
 
     loadData(dispatch) {
         const germanyMap = this.state.germanyMap;
-        return fetch('http://localhost:3030/').then((data) => {
+        return fetch('http://localhost:3000/data/kl_b-junioren_niedersachsen_named_distances_big.json').then((data) => {
             return data.json();
         }).then((data) => {
             germanyMap.data = data;
