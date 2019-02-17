@@ -34,7 +34,7 @@ server.use('/', router);
 const startServer = () => {
   server.listen(config.port, config.host, () => {
     console.log('mock-server is running on http://%s:%s', config.host, config.port);
-    console.log('run http://localhost:%s/departments', config.port);
+    console.log('run http://localhost:%s/', config.port);
 
   });
 };

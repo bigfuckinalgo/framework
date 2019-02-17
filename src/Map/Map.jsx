@@ -8,7 +8,13 @@ class Map extends Component {
 
     loadData(dispatch) {
         const germanyMap = this.state.germanyMap;
-        return fetch('http://localhost:3000/data/kl_b-junioren_niedersachsen_named_distances_big.json').then((data) => {
+        //const uri = 'http://localhost:3000/data/bl_frauen_bayern_named_distances.json';
+        //const uri = 'http://localhost:3000/data/rl_herren_all_named_distances.json';
+        //const uri = 'http://localhost:3000/data/kl_b-junioren_niedersachsen.json';
+        const uri = 'http://localhost:3000/data/data.json';
+
+        //const uri = 'http://localhost:3000/data/kl_b-junioren_niedersachsen_named_distances_big.json';
+        return fetch(uri).then((data) => {
             return data.json();
         }).then((data) => {
             germanyMap.data = data;

@@ -128,12 +128,12 @@ export class GermanyMap {
             .data(data).enter()
             .append("circle")
             .attr("cx", (team) => {
-                return this._projection([team.lng, team.lat])[0] - 1;
+                return this._projection([team.lng, team.lat])[0] - 3;
             })
             .attr("cy", (team) => {
-                return this._projection([team.lng, team.lat])[1] - 1;
+                return this._projection([team.lng, team.lat])[1] - 3;
             })
-            .attr("r", "2px")
+            .attr("r", "6px")
             .attr('stroke-width', 0)
             .attr("fill", (team) => {
                 return this._getDivisionColor(team.division)
