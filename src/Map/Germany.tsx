@@ -20,7 +20,7 @@ function getRandomColor() {
 }
 
 const colors: string[] = [];
-for (let i = 0; i<=26; i++) {
+for (let i = 0; i <= 26; i++) {
     colors.push(getRandomColor());
 }
 
@@ -104,6 +104,15 @@ export class GermanyMap {
                 .append("path")
                 .attr("class", "feature")
                 .attr("d", this._geoPath);
+
+            this._g.selectAll("image")
+                .data([[0, 0]]).enter()
+                .append("image")
+                .attr("xlink:href", "https://upload.wikimedia.org/wikipedia/commons/archive/d/d8/20060904222108%21Compass_card_%28de%29.svg")
+                .attr("width", 200)
+                .attr("height", 200)
+                .attr("x", 400)
+                .attr("y", 100)
         });
     }
 
@@ -119,10 +128,10 @@ export class GermanyMap {
             .data(data).enter()
             .append("circle")
             .attr("cx", (team) => {
-                return this._projection([team.lng, team.lat])[0]-1;
+                return this._projection([team.lng, team.lat])[0] - 1;
             })
             .attr("cy", (team) => {
-                return this._projection([team.lng, team.lat])[1]-1;
+                return this._projection([team.lng, team.lat])[1] - 1;
             })
             .attr("r", "2px")
             .attr('stroke-width', 0)
@@ -131,20 +140,6 @@ export class GermanyMap {
             })
     }
 
-    //    this._g.selectAll("image")
-    //        .data(data).enter()
-    //        .append("image").attr("href", "img/location-pointer.svg")
-    //        .attr("width", 6)
-    //        .attr("height", 10)
-    //        .attr("x", (team) => {
-    //            return this._projection([team.lng, team.lat])[0] - 3;
-    //        })
-    //        .attr("y", (team) => {
-   // //            return this._projection([team.lng, team.lat])[1] - 5;
-    //        })
-    //        .attr('color', (team) => {
-    //            return this._getDivisionColor(team.division)
-    //        })
-    //}
+
 }
 
