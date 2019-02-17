@@ -6,6 +6,7 @@
     "cors": "^2.8.5",
     "d3": "^5.9.1",
     "d3-transform": "^1.0.5",
+    "gps-distance": "0.0.4",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-redux": "^6.0.0",
