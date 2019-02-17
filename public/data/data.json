@@ -1,0 +1,2786 @@
+[
+  {
+    "teamName": "JFV Biber U17 I",
+    "division": 0,
+    "lon": 8.7283118,
+    "lat": 53.4431512
+  },
+  {
+    "teamName": "SV Hage",
+    "division": 0,
+    "lon": 7.288060000000001,
+    "lat": 53.60013
+  },
+  {
+    "teamName": "JSG Lindern\/Vrees",
+    "division": 0,
+    "lon": 7.7690562,
+    "lat": 52.8440277
+  },
+  {
+    "teamName": "JSG Uplengen\/Lammertsfehn",
+    "division": 0,
+    "lon": 7.672706999999999,
+    "lat": 53.267003
+  },
+  {
+    "teamName": "JFV Biber U16 I",
+    "division": 0,
+    "lon": 8.8135506,
+    "lat": 53.4322784
+  },
+  {
+    "teamName": "JSG Steyerberg I",
+    "division": 0,
+    "lon": 9.034130099999999,
+    "lat": 52.57226
+  },
+  {
+    "teamName": "JSG Wörpetal U17",
+    "division": 0,
+    "lon": 9.0894591,
+    "lat": 53.2218059
+  },
+  {
+    "teamName": "TV Hassendorf U17",
+    "division": 0,
+    "lon": 9.273748399999999,
+    "lat": 53.119858
+  },
+  {
+    "teamName": "U16 TuS Nenndorf",
+    "division": 0,
+    "lon": 9.8934589,
+    "lat": 53.3748351
+  },
+  {
+    "teamName": "JSG Lindern\/Vrees",
+    "division": 0,
+    "lon": 7.769056200000001,
+    "lat": 52.8440277
+  },
+  {
+    "teamName": "JSG Uplengen\/Lammertsfehn",
+    "division": 0,
+    "lon": 7.672707,
+    "lat": 53.267003
+  },
+  {
+    "teamName": "JSG Mitte 2013  A",
+    "division": 0,
+    "lon": 10.9421597,
+    "lat": 52.2722863
+  },
+  {
+    "teamName": "JSG Hornburg\/Achim-B.",
+    "division": 0,
+    "lon": 10.5818374,
+    "lat": 52.0690832
+  },
+  {
+    "teamName": "JSG Westerhausen\/Buer",
+    "division": 0,
+    "lon": 8.290239999999999,
+    "lat": 52.24678
+  },
+  {
+    "teamName": "SG Neuenkirchen-Vörden",
+    "division": 0,
+    "lon": 8.08848,
+    "lat": 52.47834
+  },
+  {
+    "teamName": "JSG Südharz\/Zorge",
+    "division": 0,
+    "lon": 10.6076185,
+    "lat": 51.5915365
+  },
+  {
+    "teamName": "SC Hainberg",
+    "division": 0,
+    "lon": 9.965082,
+    "lat": 51.519419
+  },
+  {
+    "teamName": "U16 SG Lemgow\/Lüchow",
+    "division": 0,
+    "lon": 11.2214098,
+    "lat": 52.91981269999999
+  },
+  {
+    "teamName": "U16 Teutonia Uelzen I",
+    "division": 0,
+    "lon": 10.5691499,
+    "lat": 52.95404
+  },
+  {
+    "teamName": "TUS GW Himmelsthuer U17",
+    "division": 1,
+    "lon": 9.9174583,
+    "lat": 52.1620626
+  },
+  {
+    "teamName": "JSG Kissenbr.\/Semm.\/Ohrum",
+    "division": 1,
+    "lon": 10.7031874,
+    "lat": 52.09303749999999
+  },
+  {
+    "teamName": "JSG Oberg\/Kl. Ilsede",
+    "division": 1,
+    "lon": 10.2432,
+    "lat": 52.26629
+  },
+  {
+    "teamName": "TSV Meyenburg (U17)",
+    "division": 1,
+    "lon": 8.628697599999999,
+    "lat": 53.2624258
+  },
+  {
+    "teamName": "Eintracht SV Nordenham",
+    "division": 1,
+    "lon": 8.47952,
+    "lat": 53.47441
+  },
+  {
+    "teamName": "JSG Adensen \/ Wülfingen ( U17 )",
+    "division": 1,
+    "lon": 9.7270295,
+    "lat": 52.1741574
+  },
+  {
+    "teamName": "Polizei SV Hannover",
+    "division": 1,
+    "lon": 9.82468,
+    "lat": 52.37675
+  },
+  {
+    "teamName": "JSG Friesische Wehde 1",
+    "division": 1,
+    "lon": 8.0198269,
+    "lat": 53.3825922
+  },
+  {
+    "teamName": "Post SV Oldenburg",
+    "division": 1,
+    "lon": 8.1891734,
+    "lat": 53.1848854
+  },
+  {
+    "teamName": "JSG Frisia \/ Rot Weiß Emden",
+    "division": 1,
+    "lon": 7.191759999999999,
+    "lat": 53.35755
+  },
+  {
+    "teamName": "SV Hage",
+    "division": 1,
+    "lon": 7.28806,
+    "lat": 53.60013
+  },
+  {
+    "teamName": "U16 TSV Hitzacker",
+    "division": 1,
+    "lon": 11.0305067,
+    "lat": 53.1438117
+  },
+  {
+    "teamName": "U16 SG Lemgow\/Lüchow",
+    "division": 1,
+    "lon": 11.2214098,
+    "lat": 52.9198127
+  },
+  {
+    "teamName": "TuS Bersenbrück",
+    "division": 1,
+    "lon": 7.959417800000001,
+    "lat": 52.5541692
+  },
+  {
+    "teamName": "JSG Diepholz U16 I",
+    "division": 1,
+    "lon": 8.3543158,
+    "lat": 52.6009676
+  },
+  {
+    "teamName": "TSV Krähenwinkel\/Kaltenw.",
+    "division": 1,
+    "lon": 9.756233199999999,
+    "lat": 52.4727833
+  },
+  {
+    "teamName": "SG Oldau\/O.\/Südwinsen\/Wietze U16",
+    "division": 1,
+    "lon": 9.9293277,
+    "lat": 52.6428285
+  },
+  {
+    "teamName": "RW Visbek",
+    "division": 1,
+    "lon": 8.320408,
+    "lat": 52.84883989999999
+  },
+  {
+    "teamName": "JSG Mörsen-Twistringen U17 II",
+    "division": 1,
+    "lon": 8.635,
+    "lat": 52.79354
+  },
+  {
+    "teamName": "SSV Vorsfelde II",
+    "division": 2,
+    "lon": 10.8449282,
+    "lat": 52.4365721
+  },
+  {
+    "teamName": "JSG Ahlsburg",
+    "division": 2,
+    "lon": 9.760130199999999,
+    "lat": 51.7680684
+  },
+  {
+    "teamName": "JSG Nörten",
+    "division": 2,
+    "lon": 9.9706486,
+    "lat": 51.6345807
+  },
+  {
+    "teamName": "JSG Geest (U 17 )",
+    "division": 2,
+    "lon": 9.3839309,
+    "lat": 53.55002169999999
+  },
+  {
+    "teamName": "JSG Oste U16 (A)",
+    "division": 2,
+    "lon": 9.1248301,
+    "lat": 53.55292
+  },
+  {
+    "teamName": "JFG Weser-Schwülme",
+    "division": 2,
+    "lon": 9.651869999999999,
+    "lat": 51.58355
+  },
+  {
+    "teamName": "TUSPO Weser-Gimte",
+    "division": 2,
+    "lon": 9.6470016,
+    "lat": 51.4335369
+  },
+  {
+    "teamName": "FJSG Allertal\/ Düshorn U16",
+    "division": 2,
+    "lon": 9.5973848,
+    "lat": 52.7522332
+  },
+  {
+    "teamName": "FSG Heidmark U17",
+    "division": 2,
+    "lon": 9.77036,
+    "lat": 52.89724
+  },
+  {
+    "teamName": "U16 JSG Elbtal",
+    "division": 2,
+    "lon": 10.545344,
+    "lat": 53.3364855
+  },
+  {
+    "teamName": "U17 Eintracht Elbmarsch",
+    "division": 2,
+    "lon": 10.3525525,
+    "lat": 53.4101113
+  },
+  {
+    "teamName": "JSG Dörpen\/Ah-Ste\/Neub",
+    "division": 2,
+    "lon": 7.320727799999999,
+    "lat": 52.9618696
+  },
+  {
+    "teamName": "JFV Oberrheiderland",
+    "division": 2,
+    "lon": 7.31961,
+    "lat": 53.12722
+  },
+  {
+    "teamName": "FC Hude",
+    "division": 2,
+    "lon": 8.44737,
+    "lat": 53.10798
+  },
+  {
+    "teamName": "JSG Meyenb.\/Aschw. (U16)",
+    "division": 2,
+    "lon": 8.53147,
+    "lat": 53.28263
+  },
+  {
+    "teamName": "JSG Fürstenau\/Schwagstorf\/Hollenstede",
+    "division": 2,
+    "lon": 7.6611372,
+    "lat": 52.5110203
+  },
+  {
+    "teamName": "JFV Haselünne",
+    "division": 2,
+    "lon": 7.4805391,
+    "lat": 52.6674196
+  },
+  {
+    "teamName": "Alem. Salzbergen",
+    "division": 2,
+    "lon": 7.328441199999999,
+    "lat": 52.3283383
+  },
+  {
+    "teamName": "JSG Gildehaus\/ SGB",
+    "division": 2,
+    "lon": 7.10545,
+    "lat": 52.30663
+  },
+  {
+    "teamName": "SC Wietzenbruch U16",
+    "division": 3,
+    "lon": 10.0253,
+    "lat": 52.60919999999999
+  },
+  {
+    "teamName": "SC Wietzenbruch U17",
+    "division": 3,
+    "lon": 10.0253,
+    "lat": 52.6092
+  },
+  {
+    "teamName": "JSG Berenbostel\/Dedensen",
+    "division": 3,
+    "lon": 9.592229999999999,
+    "lat": 52.4406
+  },
+  {
+    "teamName": "JFV 2011 Nenndorf",
+    "division": 3,
+    "lon": 9.4068333,
+    "lat": 52.3535646
+  },
+  {
+    "teamName": "JSG Edewecht\/Ekern",
+    "division": 3,
+    "lon": 7.984159999999998,
+    "lat": 53.12222999999999
+  },
+  {
+    "teamName": "SV Bösel",
+    "division": 3,
+    "lon": 8.0381612,
+    "lat": 53.0026521
+  },
+  {
+    "teamName": "TSV Üfingen",
+    "division": 3,
+    "lon": 10.4160447,
+    "lat": 52.20335619999999
+  },
+  {
+    "teamName": "JSG Adenstedt\/Gadenstedt\/Gr.Bülten\/Solschen",
+    "division": 3,
+    "lon": 10.16819,
+    "lat": 52.2508
+  },
+  {
+    "teamName": "JSG Wagenfeld U17 (9er)",
+    "division": 3,
+    "lon": 8.5952415,
+    "lat": 52.5450851
+  },
+  {
+    "teamName": "JSG Schamerloh II",
+    "division": 3,
+    "lon": 8.81507,
+    "lat": 52.43822
+  },
+  {
+    "teamName": "TuS Clausthal-Z.",
+    "division": 3,
+    "lon": 10.3251733,
+    "lat": 51.8179598
+  },
+  {
+    "teamName": "JSG Langelsheim",
+    "division": 3,
+    "lon": 10.3279892,
+    "lat": 51.9060867
+  },
+  {
+    "teamName": "JSG Hils",
+    "division": 3,
+    "lon": 9.50901,
+    "lat": 51.85709
+  },
+  {
+    "teamName": "JSG Bodenwerder\/Kemnade\/Rühle",
+    "division": 3,
+    "lon": 9.5103978,
+    "lat": 51.9727482
+  },
+  {
+    "teamName": "FSV Jever II",
+    "division": 3,
+    "lon": 7.8907765,
+    "lat": 53.5775218
+  },
+  {
+    "teamName": "ESV Wilhelmshaven",
+    "division": 3,
+    "lon": 8.0971745,
+    "lat": 53.5276867
+  },
+  {
+    "teamName": "JSG Schöningen II  A",
+    "division": 3,
+    "lon": 10.9367,
+    "lat": 52.12709
+  },
+  {
+    "teamName": "JSG Kissenbr.\/Semm.\/Ohrum",
+    "division": 3,
+    "lon": 10.7031874,
+    "lat": 52.0930375
+  },
+  {
+    "teamName": "TSV Ottersberg U16",
+    "division": 4,
+    "lon": 9.1369657,
+    "lat": 53.1070472
+  },
+  {
+    "teamName": "U16 JSG Röbbelbach",
+    "division": 4,
+    "lon": 10.5966413,
+    "lat": 53.07757950000001
+  },
+  {
+    "teamName": "U16 Dahlenburger SK",
+    "division": 4,
+    "lon": 10.75018,
+    "lat": 53.18228
+  },
+  {
+    "teamName": "TUS Müden-Dieckh.",
+    "division": 4,
+    "lon": 10.369996,
+    "lat": 52.5236963
+  },
+  {
+    "teamName": "JSG Südkreis",
+    "division": 4,
+    "lon": 10.4123991,
+    "lat": 52.3823361
+  },
+  {
+    "teamName": "SV Groß Düngen (U16)",
+    "division": 4,
+    "lon": 10.015344,
+    "lat": 52.09461580000001
+  },
+  {
+    "teamName": "JSG im Innerstetal",
+    "division": 4,
+    "lon": 10.2557,
+    "lat": 52.06932
+  },
+  {
+    "teamName": "JSG Heidetor U16",
+    "division": 4,
+    "lon": 9.52365,
+    "lat": 52.9691493
+  },
+  {
+    "teamName": "JSG KAWU U16",
+    "division": 4,
+    "lon": 9.3511028,
+    "lat": 53.0765044
+  },
+  {
+    "teamName": "JFV Neustädter Land",
+    "division": 4,
+    "lon": 9.413459999999999,
+    "lat": 52.55189
+  },
+  {
+    "teamName": "JSG Berenbostel\/Dedensen",
+    "division": 4,
+    "lon": 9.59223,
+    "lat": 52.4406
+  },
+  {
+    "teamName": "SG BaCaLü",
+    "division": 4,
+    "lon": 8.075217499999999,
+    "lat": 52.7459575
+  },
+  {
+    "teamName": "GW Brockdorf II",
+    "division": 4,
+    "lon": 8.17852,
+    "lat": 52.65029
+  },
+  {
+    "teamName": "JSG Ingeln-Oe.\/Gleidingen",
+    "division": 4,
+    "lon": 9.892007999999999,
+    "lat": 52.280591
+  },
+  {
+    "teamName": "JSG Sehnde\/Ilten",
+    "division": 4,
+    "lon": 9.9439682,
+    "lat": 52.3444924
+  },
+  {
+    "teamName": "JSG Altes Land  (U16)",
+    "division": 4,
+    "lon": 9.677512,
+    "lat": 53.535342
+  },
+  {
+    "teamName": "U 16 TVV Neu Wulmstorf",
+    "division": 4,
+    "lon": 9.80141,
+    "lat": 53.44935
+  },
+  {
+    "teamName": "JSG Ostercappeln\/Schwagstorf\/Venne",
+    "division": 4,
+    "lon": 8.20891,
+    "lat": 52.37179
+  },
+  {
+    "teamName": "JSG Brockum U16",
+    "division": 4,
+    "lon": 8.4274828,
+    "lat": 52.4670647
+  },
+  {
+    "teamName": "JSG Helmstedt II  B",
+    "division": 5,
+    "lon": 11.01516,
+    "lat": 52.23531
+  },
+  {
+    "teamName": "WTW Wallensen",
+    "division": 5,
+    "lon": 9.626330099999999,
+    "lat": 52.02342909999999
+  },
+  {
+    "teamName": "SV Alfeld U17 II",
+    "division": 5,
+    "lon": 9.830212,
+    "lat": 51.9787051
+  },
+  {
+    "teamName": "JSG Isenhagen II",
+    "division": 5,
+    "lon": 10.701155,
+    "lat": 52.6853358
+  },
+  {
+    "teamName": "U16 JSG Aue Bodenteich",
+    "division": 5,
+    "lon": 10.6568403,
+    "lat": 52.8036469
+  },
+  {
+    "teamName": "JFV Biber U16 I",
+    "division": 5,
+    "lon": 8.8135506,
+    "lat": 53.43227839999999
+  },
+  {
+    "teamName": "SV Bornreihe (U16)",
+    "division": 5,
+    "lon": 8.9036402,
+    "lat": 53.3034211
+  },
+  {
+    "teamName": "JSG Uelsen\/ ASC B2",
+    "division": 5,
+    "lon": 6.8051644,
+    "lat": 52.50267969999999
+  },
+  {
+    "teamName": "Sparta Nordhorn",
+    "division": 5,
+    "lon": 7.0582665,
+    "lat": 52.4467075
+  },
+  {
+    "teamName": "JSG Seesen",
+    "division": 5,
+    "lon": 10.1872274,
+    "lat": 51.9041534
+  },
+  {
+    "teamName": "JSG Gandersheim\/Harrieh.",
+    "division": 5,
+    "lon": 10.0222816,
+    "lat": 51.8731158
+  },
+  {
+    "teamName": "JSG Wietzen",
+    "division": 5,
+    "lon": 9.0058487,
+    "lat": 52.7784513
+  },
+  {
+    "teamName": "JSG Hassel II",
+    "division": 5,
+    "lon": 9.1961062,
+    "lat": 52.8008741
+  },
+  {
+    "teamName": "STV Barssel U17",
+    "division": 5,
+    "lon": 7.7631797,
+    "lat": 53.16511620000001
+  },
+  {
+    "teamName": "TuRa 07 Westrhauderfehn",
+    "division": 5,
+    "lon": 7.5751252,
+    "lat": 53.1280233
+  },
+  {
+    "teamName": "VFR Osterode",
+    "division": 5,
+    "lon": 10.2431823,
+    "lat": 51.7261318
+  },
+  {
+    "teamName": "JSG HarzTor",
+    "division": 5,
+    "lon": 10.3673603,
+    "lat": 51.6289141
+  },
+  {
+    "teamName": "JSG Riemsloh\/Neuenkirchen",
+    "division": 5,
+    "lon": 8.4194259,
+    "lat": 52.182325
+  },
+  {
+    "teamName": "JSG Westerhausen\/Buer",
+    "division": 5,
+    "lon": 8.29024,
+    "lat": 52.24678
+  },
+  {
+    "teamName": "SV Lilienthal\/Falk. (U17)",
+    "division": 6,
+    "lon": 8.923764199999999,
+    "lat": 53.1513588
+  },
+  {
+    "teamName": "SV Lilienthal\/Falk. (U16)",
+    "division": 6,
+    "lon": 8.9237642,
+    "lat": 53.1513588
+  },
+  {
+    "teamName": "JSG Esterwegen\/Surwold\/Bockhorst",
+    "division": 6,
+    "lon": 7.485661100000001,
+    "lat": 53.0024481
+  },
+  {
+    "teamName": "JSG Dörpen\/Ah-Ste\/Neub",
+    "division": 6,
+    "lon": 7.3207278,
+    "lat": 52.9618696
+  },
+  {
+    "teamName": "JFV Boldecker Land II",
+    "division": 6,
+    "lon": 10.75987,
+    "lat": 52.50078999999999
+  },
+  {
+    "teamName": "JSG Ohretal-Brome",
+    "division": 6,
+    "lon": 10.9252252,
+    "lat": 52.6028183
+  },
+  {
+    "teamName": "JSG Nord (U17)",
+    "division": 6,
+    "lon": 9.317560100000001,
+    "lat": 53.76703
+  },
+  {
+    "teamName": "JSG Nord II (U17)",
+    "division": 6,
+    "lon": 9.2602317,
+    "lat": 53.681045
+  },
+  {
+    "teamName": "JSG Geversdorf\/Oberndorf U17",
+    "division": 6,
+    "lon": 9.0761326,
+    "lat": 53.7977396
+  },
+  {
+    "teamName": "JSG Wanna\/Lüdingworth-Otterndorf U 16",
+    "division": 6,
+    "lon": 8.890803,
+    "lat": 53.8094334
+  },
+  {
+    "teamName": "MTV Soltau U17",
+    "division": 6,
+    "lon": 9.8646235,
+    "lat": 52.9810828
+  },
+  {
+    "teamName": "TSV Wietzendorf U17 (9er)",
+    "division": 6,
+    "lon": 9.97002,
+    "lat": 52.91705
+  },
+  {
+    "teamName": "FC Gleichen",
+    "division": 6,
+    "lon": 10.13244,
+    "lat": 51.43933999999999
+  },
+  {
+    "teamName": "JFV Eichsfeld 2",
+    "division": 6,
+    "lon": 10.2507907,
+    "lat": 51.5126084
+  },
+  {
+    "teamName": "JSG Groß-Hesepe\/Dalum",
+    "division": 6,
+    "lon": 7.235014700000001,
+    "lat": 52.6245922
+  },
+  {
+    "teamName": "FC Wesuwe",
+    "division": 6,
+    "lon": 7.2084074,
+    "lat": 52.7591288
+  },
+  {
+    "teamName": "JSG Meyenb.\/Aschw. (U16)",
+    "division": 6,
+    "lon": 8.531469999999999,
+    "lat": 53.28263
+  },
+  {
+    "teamName": "TSV Meyenburg (U17)",
+    "division": 6,
+    "lon": 8.6286976,
+    "lat": 53.2624258
+  },
+  {
+    "teamName": "SV Buschhausen (U16)",
+    "division": 7,
+    "lon": 8.76313,
+    "lat": 53.22490999999999
+  },
+  {
+    "teamName": "SV Azadi (U16)",
+    "division": 7,
+    "lon": 8.76313,
+    "lat": 53.22491
+  },
+  {
+    "teamName": "U16 JSG TSV Auetal\/MTV Brackel",
+    "division": 7,
+    "lon": 10.1420224,
+    "lat": 53.2936053
+  },
+  {
+    "teamName": "U17 JSG MTV Egestorf \/ MTV Hanstedt",
+    "division": 7,
+    "lon": 10.0570035,
+    "lat": 53.1969827
+  },
+  {
+    "teamName": "JSG Twist",
+    "division": 7,
+    "lon": 7.0554878,
+    "lat": 52.6353142
+  },
+  {
+    "teamName": "JSG Emslage\/Union Meppen",
+    "division": 7,
+    "lon": 7.2390501,
+    "lat": 52.6833393
+  },
+  {
+    "teamName": "JFV Haselünne",
+    "division": 7,
+    "lon": 7.480539100000001,
+    "lat": 52.6674196
+  },
+  {
+    "teamName": "JSG Berssen\/Eisten-Hüven\/Lähden",
+    "division": 7,
+    "lon": 7.4699054,
+    "lat": 52.7671066
+  },
+  {
+    "teamName": "ASC Nienburg",
+    "division": 7,
+    "lon": 9.2263523,
+    "lat": 52.6528915
+  },
+  {
+    "teamName": "JSG Landesbergen",
+    "division": 7,
+    "lon": 9.12573,
+    "lat": 52.55941
+  },
+  {
+    "teamName": "U16 TUS Ebstorf",
+    "division": 7,
+    "lon": 10.4370145,
+    "lat": 53.0361837
+  },
+  {
+    "teamName": "U16 JSG Röbbelbach",
+    "division": 7,
+    "lon": 10.5966413,
+    "lat": 53.0775795
+  },
+  {
+    "teamName": "JSG Georgsmarienhütte B 2",
+    "division": 7,
+    "lon": 8.064320000000002,
+    "lat": 52.1957
+  },
+  {
+    "teamName": "Blau Weiss Schinkel",
+    "division": 7,
+    "lon": 8.1053044,
+    "lat": 52.282312
+  },
+  {
+    "teamName": "FC Schunter A",
+    "division": 7,
+    "lon": 10.6678231,
+    "lat": 52.3306792
+  },
+  {
+    "teamName": "JFV Kickers Braunschweig",
+    "division": 7,
+    "lon": 10.56962,
+    "lat": 52.324665
+  },
+  {
+    "teamName": "VFL Güldenstern Stade II (U17)",
+    "division": 7,
+    "lon": 9.492568400000001,
+    "lat": 53.5748942
+  },
+  {
+    "teamName": "JSG Geest (U 17 )",
+    "division": 7,
+    "lon": 9.3839309,
+    "lat": 53.5500217
+  },
+  {
+    "teamName": "TSV Eintracht Immenbeck II (U17)",
+    "division": 8,
+    "lon": 9.722999999999999,
+    "lat": 53.4547
+  },
+  {
+    "teamName": "TSV Eintracht Immenbeck II (U16)",
+    "division": 8,
+    "lon": 9.723,
+    "lat": 53.4547
+  },
+  {
+    "teamName": "JSG Munster \/ Breloh U17, 9er",
+    "division": 8,
+    "lon": 10.0994165,
+    "lat": 52.9847634
+  },
+  {
+    "teamName": "ASV Fassberg U17 9-er",
+    "division": 8,
+    "lon": 10.1669703,
+    "lat": 52.9011676
+  },
+  {
+    "teamName": "U16 MTV Treubund Lüneburg II",
+    "division": 8,
+    "lon": 10.3953752,
+    "lat": 53.2231758
+  },
+  {
+    "teamName": "U17 FC Heidetal",
+    "division": 8,
+    "lon": 10.3075572,
+    "lat": 53.1279498
+  },
+  {
+    "teamName": "JSG Oderwald",
+    "division": 8,
+    "lon": 10.4647254,
+    "lat": 52.0797016
+  },
+  {
+    "teamName": "JSG Bärenkopf",
+    "division": 8,
+    "lon": 10.3895627,
+    "lat": 52.0106876
+  },
+  {
+    "teamName": "JSG Moordorf\/Engerhafe",
+    "division": 8,
+    "lon": 7.3141677,
+    "lat": 53.4908685
+  },
+  {
+    "teamName": "SpVg Aurich",
+    "division": 8,
+    "lon": 7.47979,
+    "lat": 53.46435
+  },
+  {
+    "teamName": "JSG Aerzen \/ Reher \/ Groß Berkel",
+    "division": 8,
+    "lon": 9.2682751,
+    "lat": 52.0534105
+  },
+  {
+    "teamName": "JSG Afferde\/Hilligsfeld\/Tündern II",
+    "division": 8,
+    "lon": 9.3997683,
+    "lat": 52.0973611
+  },
+  {
+    "teamName": "JFV 2011 Nenndorf",
+    "division": 8,
+    "lon": 9.406833299999999,
+    "lat": 52.35356460000001
+  },
+  {
+    "teamName": "Basche United ( Barsingh.)",
+    "division": 8,
+    "lon": 9.4685396,
+    "lat": 52.2958361
+  },
+  {
+    "teamName": "JSG Nordring U 16",
+    "division": 8,
+    "lon": 9.764011799999999,
+    "lat": 53.08775619999999
+  },
+  {
+    "teamName": "JFV Wiedau Bothel U16",
+    "division": 8,
+    "lon": 9.6141517,
+    "lat": 53.0872213
+  },
+  {
+    "teamName": "MTSV Jahn Eschershausen",
+    "division": 8,
+    "lon": 9.6331393,
+    "lat": 51.9289152
+  },
+  {
+    "teamName": "WTW Wallensen",
+    "division": 8,
+    "lon": 9.6263301,
+    "lat": 52.0234291
+  },
+  {
+    "teamName": "TSV Buxtehude-Altkloster (U16)",
+    "division": 9,
+    "lon": 9.6856616,
+    "lat": 53.4684734
+  },
+  {
+    "teamName": "JSG Fintau U17",
+    "division": 9,
+    "lon": 9.6628821,
+    "lat": 53.163298
+  },
+  {
+    "teamName": "JSG Nordring U 16",
+    "division": 9,
+    "lon": 9.7640118,
+    "lat": 53.0877562
+  },
+  {
+    "teamName": "JSG Radolfshausen\/Eichsfeld",
+    "division": 9,
+    "lon": 10.10093,
+    "lat": 51.56984
+  },
+  {
+    "teamName": "Nikolausberger SC",
+    "division": 9,
+    "lon": 9.9873562,
+    "lat": 51.5614643
+  },
+  {
+    "teamName": "U17 TV Welle",
+    "division": 9,
+    "lon": 9.803531,
+    "lat": 53.2365613
+  },
+  {
+    "teamName": "U16 SV Wistedt",
+    "division": 9,
+    "lon": 9.6833999,
+    "lat": 53.26654
+  },
+  {
+    "teamName": "JSG Blau-Weiß 29",
+    "division": 9,
+    "lon": 10.4537381,
+    "lat": 52.652531
+  },
+  {
+    "teamName": "VFL Wahrenholz",
+    "division": 9,
+    "lon": 10.596546,
+    "lat": 52.6205082
+  },
+  {
+    "teamName": "JSG Papenteich",
+    "division": 9,
+    "lon": 10.53781,
+    "lat": 52.39333
+  },
+  {
+    "teamName": "SV Calberlah",
+    "division": 9,
+    "lon": 10.62531,
+    "lat": 52.4243787
+  },
+  {
+    "teamName": "SV Weetzen",
+    "division": 9,
+    "lon": 9.6353005,
+    "lat": 52.302359
+  },
+  {
+    "teamName": "SG Arnum\/Hemmingen",
+    "division": 9,
+    "lon": 9.7362089,
+    "lat": 52.296551
+  },
+  {
+    "teamName": "SG Essen-Bevern-Bunnen",
+    "division": 9,
+    "lon": 7.941299999999999,
+    "lat": 52.71647
+  },
+  {
+    "teamName": "SG BaCaLü",
+    "division": 9,
+    "lon": 8.0752175,
+    "lat": 52.7459575
+  },
+  {
+    "teamName": "SSV Stederdorf",
+    "division": 9,
+    "lon": 10.23578,
+    "lat": 52.34746999999999
+  },
+  {
+    "teamName": "JSG Dollbergen\/Ka\/Schw",
+    "division": 9,
+    "lon": 10.1828209,
+    "lat": 52.4121913
+  },
+  {
+    "teamName": "SG Neuenkirchen-Vörden",
+    "division": 9,
+    "lon": 8.088479999999999,
+    "lat": 52.47834
+  },
+  {
+    "teamName": "JSG Rieste\/Alfhausen",
+    "division": 9,
+    "lon": 7.95951,
+    "lat": 52.50794
+  },
+  {
+    "teamName": "RW Damme",
+    "division": 10,
+    "lon": 8.190385599999999,
+    "lat": 52.5317934
+  },
+  {
+    "teamName": "RW Damme II",
+    "division": 10,
+    "lon": 8.1903856,
+    "lat": 52.5317934
+  },
+  {
+    "teamName": "SG Rechterfeld\/Goldenstedt",
+    "division": 10,
+    "lon": 8.44803,
+    "lat": 52.7827
+  },
+  {
+    "teamName": "JSG BDE Barnstorf U17",
+    "division": 10,
+    "lon": 8.5050437,
+    "lat": 52.713202
+  },
+  {
+    "teamName": "U16 TuS Barendorf",
+    "division": 10,
+    "lon": 10.5374182,
+    "lat": 53.2259602
+  },
+  {
+    "teamName": "U16 TSV Bienenbüttel",
+    "division": 10,
+    "lon": 10.4897899,
+    "lat": 53.14597
+  },
+  {
+    "teamName": "JFV Concordia U17 II",
+    "division": 10,
+    "lon": 9.2097777,
+    "lat": 53.3752846
+  },
+  {
+    "teamName": "JSG Ummel U17",
+    "division": 10,
+    "lon": 9.11318,
+    "lat": 53.33036
+  },
+  {
+    "teamName": "SG Geestequelle U17",
+    "division": 10,
+    "lon": 8.9671512,
+    "lat": 53.49267949999999
+  },
+  {
+    "teamName": "SG Geestequelle U16",
+    "division": 10,
+    "lon": 9.0696973,
+    "lat": 53.4830463
+  },
+  {
+    "teamName": "JSG SBS Kickers U17 (9er)",
+    "division": 10,
+    "lon": 8.972832,
+    "lat": 52.6723358
+  },
+  {
+    "teamName": "TUS Sulingen U17 (9er) II",
+    "division": 10,
+    "lon": 8.8300908,
+    "lat": 52.6803258
+  },
+  {
+    "teamName": "FCR  Bramsche II",
+    "division": 10,
+    "lon": 7.9976899,
+    "lat": 52.40881
+  },
+  {
+    "teamName": "TUS Eintracht Rulle",
+    "division": 10,
+    "lon": 8.0251591,
+    "lat": 52.3288898
+  },
+  {
+    "teamName": "TSV Debstedt U16",
+    "division": 10,
+    "lon": 8.63838,
+    "lat": 53.62238
+  },
+  {
+    "teamName": "JSG WNK U16 I",
+    "division": 10,
+    "lon": 8.5118032,
+    "lat": 53.6507212
+  },
+  {
+    "teamName": "JSG Bierden\/Uphusen U16",
+    "division": 10,
+    "lon": 9.01264,
+    "lat": 53.02016
+  },
+  {
+    "teamName": "JSG Löwen U16",
+    "division": 10,
+    "lon": 9.0274631,
+    "lat": 52.9601677
+  },
+  {
+    "teamName": "JFV Rotenburg U17",
+    "division": 11,
+    "lon": 9.3849,
+    "lat": 53.1098
+  },
+  {
+    "teamName": "JFV Verden\/Brunsbrock U17",
+    "division": 11,
+    "lon": 9.38828,
+    "lat": 52.9440014
+  },
+  {
+    "teamName": "TSV Lohberg U17",
+    "division": 11,
+    "lon": 9.30625,
+    "lat": 52.88985
+  },
+  {
+    "teamName": "SV Rasensport",
+    "division": 11,
+    "lon": 8.04701,
+    "lat": 52.25354
+  },
+  {
+    "teamName": "JSG Hagen\/Niedermark I",
+    "division": 11,
+    "lon": 7.9737451,
+    "lat": 52.1975559
+  },
+  {
+    "teamName": "JSG Emslage\/Union Meppen",
+    "division": 11,
+    "lon": 7.239050100000001,
+    "lat": 52.6833393
+  },
+  {
+    "teamName": "JSG Groß-Hesepe\/Dalum",
+    "division": 11,
+    "lon": 7.2350147,
+    "lat": 52.6245922
+  },
+  {
+    "teamName": "JSG Nörten",
+    "division": 11,
+    "lon": 9.970648599999999,
+    "lat": 51.6345807
+  },
+  {
+    "teamName": "JSG Hardegsen",
+    "division": 11,
+    "lon": 9.857274,
+    "lat": 51.6187879
+  },
+  {
+    "teamName": "SV RW Wohldenberg U17",
+    "division": 11,
+    "lon": 10.153318,
+    "lat": 52.0585356
+  },
+  {
+    "teamName": "SV Bockenem 2007 U17",
+    "division": 11,
+    "lon": 10.1404773,
+    "lat": 52.0110079
+  },
+  {
+    "teamName": "JSG Fuhsetal U17",
+    "division": 11,
+    "lon": 10.1096576,
+    "lat": 52.55502449999999
+  },
+  {
+    "teamName": "JSG Flotwedel U17",
+    "division": 11,
+    "lon": 10.211672,
+    "lat": 52.5189709
+  },
+  {
+    "teamName": "SV Bornreihe (U16)",
+    "division": 11,
+    "lon": 8.9036402,
+    "lat": 53.30342109999999
+  },
+  {
+    "teamName": "JSG Gnarrenburg U16 I",
+    "division": 11,
+    "lon": 8.95093,
+    "lat": 53.37511
+  },
+  {
+    "teamName": "JSV 02 Giesen U17",
+    "division": 11,
+    "lon": 9.919878299999999,
+    "lat": 52.1913409
+  },
+  {
+    "teamName": "JFC Kaspel 09 U 16",
+    "division": 11,
+    "lon": 9.97645,
+    "lat": 52.19363
+  },
+  {
+    "teamName": "SpVg Aurich",
+    "division": 11,
+    "lon": 7.479789999999999,
+    "lat": 53.46435
+  },
+  {
+    "teamName": "JFV Aurich",
+    "division": 11,
+    "lon": 7.4689176,
+    "lat": 53.517385
+  },
+  {
+    "teamName": "JSG Drakenburg II",
+    "division": 12,
+    "lon": 9.2250205,
+    "lat": 52.68954309999999
+  },
+  {
+    "teamName": "JSG Drakenburg I",
+    "division": 12,
+    "lon": 9.2250205,
+    "lat": 52.6895431
+  },
+  {
+    "teamName": "U17 TSV Eintracht Hittfeld",
+    "division": 12,
+    "lon": 9.993971499999999,
+    "lat": 53.38840700000001
+  },
+  {
+    "teamName": "U17 JSG Jesteburg\/Bendestorf",
+    "division": 12,
+    "lon": 9.98463,
+    "lat": 53.33203
+  },
+  {
+    "teamName": "JSG Wedemark\/B.\/R. II",
+    "division": 12,
+    "lon": 9.7509353,
+    "lat": 52.5261258
+  },
+  {
+    "teamName": "TSV Krähenwinkel\/Kaltenw.",
+    "division": 12,
+    "lon": 9.7562332,
+    "lat": 52.4727833
+  },
+  {
+    "teamName": "Sparta Nordhorn",
+    "division": 12,
+    "lon": 7.058266499999999,
+    "lat": 52.4467075
+  },
+  {
+    "teamName": "JSG Neuenhaus\/Veldhausen\/Lage B1",
+    "division": 12,
+    "lon": 6.9694201,
+    "lat": 52.49044
+  },
+  {
+    "teamName": "VFL Sittensen U16",
+    "division": 12,
+    "lon": 9.444402300000002,
+    "lat": 53.285833
+  },
+  {
+    "teamName": "JSG Elsli U16",
+    "division": 12,
+    "lon": 9.3560469,
+    "lat": 53.2409724
+  },
+  {
+    "teamName": "FSG Hils\/Selter (9er)",
+    "division": 12,
+    "lon": 9.806046,
+    "lat": 51.8680406
+  },
+  {
+    "teamName": "JSG Markoldendorf\/Elfas",
+    "division": 12,
+    "lon": 9.7235193,
+    "lat": 51.8436471
+  },
+  {
+    "teamName": "JFV Oberrheiderland",
+    "division": 12,
+    "lon": 7.31961,
+    "lat": 53.12721999999999
+  },
+  {
+    "teamName": "TV Bunde",
+    "division": 12,
+    "lon": 7.27442,
+    "lat": 53.18753
+  },
+  {
+    "teamName": "JSG Samtg. Niedernwöhren\/Enzen I",
+    "division": 12,
+    "lon": 9.145819999999999,
+    "lat": 52.35701
+  },
+  {
+    "teamName": "JSG Hevesen\/Hespe",
+    "division": 12,
+    "lon": 9.0818316,
+    "lat": 52.3322053
+  },
+  {
+    "teamName": "GVO Oldenburg",
+    "division": 12,
+    "lon": 8.250664,
+    "lat": 53.1119188
+  },
+  {
+    "teamName": "SG Hatten\/Munderloh",
+    "division": 12,
+    "lon": 8.35537,
+    "lat": 53.05866
+  },
+  {
+    "teamName": "JSG Stuhr U16 II",
+    "division": 13,
+    "lon": 8.7362199,
+    "lat": 53.02638
+  },
+  {
+    "teamName": "JSG Rieste\/Alfhausen",
+    "division": 13,
+    "lon": 7.959510000000001,
+    "lat": 52.50794
+  },
+  {
+    "teamName": "TuS Bersenbrück",
+    "division": 13,
+    "lon": 7.9594178,
+    "lat": 52.5541692
+  },
+  {
+    "teamName": "JSG Westerstede",
+    "division": 13,
+    "lon": 7.913327,
+    "lat": 53.253829
+  },
+  {
+    "teamName": "SG Elmend\/Grist\/Zw'ahn",
+    "division": 13,
+    "lon": 7.98256,
+    "lat": 53.20312
+  },
+  {
+    "teamName": "JSG Landesbergen",
+    "division": 13,
+    "lon": 9.125729999999999,
+    "lat": 52.55941
+  },
+  {
+    "teamName": "JSG Steyerberg I",
+    "division": 13,
+    "lon": 9.0341301,
+    "lat": 52.57226
+  },
+  {
+    "teamName": "JSG Hornburg\/Achim-B.",
+    "division": 13,
+    "lon": 10.5818374,
+    "lat": 52.06908319999999
+  },
+  {
+    "teamName": "SV Schladen",
+    "division": 13,
+    "lon": 10.5516294,
+    "lat": 52.0180212
+  },
+  {
+    "teamName": "Heeslinger SC U16",
+    "division": 13,
+    "lon": 9.343988999999999,
+    "lat": 53.3119925
+  },
+  {
+    "teamName": "VFL Sittensen U16",
+    "division": 13,
+    "lon": 9.4444023,
+    "lat": 53.285833
+  },
+  {
+    "teamName": "Goslarer SC",
+    "division": 13,
+    "lon": 10.4442,
+    "lat": 51.90705
+  },
+  {
+    "teamName": "JSG Hees",
+    "division": 13,
+    "lon": 10.43172,
+    "lat": 51.95348
+  },
+  {
+    "teamName": "JSG Niederelbe-Ost (U17)",
+    "division": 13,
+    "lon": 9.56503,
+    "lat": 53.51144
+  },
+  {
+    "teamName": "VSV Hedendorf-Neukloster (U16)",
+    "division": 13,
+    "lon": 9.61539,
+    "lat": 53.47184
+  },
+  {
+    "teamName": "BW Lohne III",
+    "division": 13,
+    "lon": 8.244146299999999,
+    "lat": 52.64108599999999
+  },
+  {
+    "teamName": "SG Steinfeld\/Mühlen",
+    "division": 13,
+    "lon": 8.2175855,
+    "lat": 52.5844505
+  },
+  {
+    "teamName": "JSG Schamerloh II",
+    "division": 13,
+    "lon": 8.81507,
+    "lat": 52.43822000000001
+  },
+  {
+    "teamName": "JSG Lavelsloh I",
+    "division": 13,
+    "lon": 8.74541,
+    "lat": 52.42372
+  },
+  {
+    "teamName": "SV Blau-Weiß Neuhof U 16",
+    "division": 14,
+    "lon": 9.90577,
+    "lat": 52.12246
+  },
+  {
+    "teamName": "JSG Hehlingen\/Nordsteimke\/Barnstorf II",
+    "division": 14,
+    "lon": 10.8052699,
+    "lat": 52.38155
+  },
+  {
+    "teamName": "JSG Elm Sundern  A",
+    "division": 14,
+    "lon": 10.7986798,
+    "lat": 52.3264615
+  },
+  {
+    "teamName": "JSG Wietmarschen\/Lohne 2",
+    "division": 14,
+    "lon": 7.230048300000001,
+    "lat": 52.4975833
+  },
+  {
+    "teamName": "JSG Darme\/Schepsdorf",
+    "division": 14,
+    "lon": 7.3128641,
+    "lat": 52.4995175
+  },
+  {
+    "teamName": "SG Sorsum\/Emmerke U16",
+    "division": 14,
+    "lon": 9.8826621,
+    "lat": 52.1440838
+  },
+  {
+    "teamName": "JSV 02 Giesen U17",
+    "division": 14,
+    "lon": 9.9198783,
+    "lat": 52.1913409
+  },
+  {
+    "teamName": "JSG Sehnde\/Ilten",
+    "division": 14,
+    "lon": 9.943968199999999,
+    "lat": 52.3444924
+  },
+  {
+    "teamName": "JSG Lehrte",
+    "division": 14,
+    "lon": 9.99837,
+    "lat": 52.38138
+  },
+  {
+    "teamName": "SV Querum",
+    "division": 14,
+    "lon": 10.57223,
+    "lat": 52.30399
+  },
+  {
+    "teamName": "BSC Acosta III",
+    "division": 14,
+    "lon": 10.54881,
+    "lat": 52.26946
+  },
+  {
+    "teamName": "MTV Salzdahlum",
+    "division": 14,
+    "lon": 10.5859599,
+    "lat": 52.1951798
+  },
+  {
+    "teamName": "JSG Cremlingen\/Destedt",
+    "division": 14,
+    "lon": 10.6566,
+    "lat": 52.2459755
+  },
+  {
+    "teamName": "JSG Lönsheide U17",
+    "division": 14,
+    "lon": 9.6619706,
+    "lat": 52.8848456
+  },
+  {
+    "teamName": "VfB Vorbrück Walsrode U16",
+    "division": 14,
+    "lon": 9.578568,
+    "lat": 52.8648258
+  },
+  {
+    "teamName": "TSV Blender U16",
+    "division": 14,
+    "lon": 9.11406,
+    "lat": 52.92465
+  },
+  {
+    "teamName": "JSG Schwarme U16",
+    "division": 14,
+    "lon": 9.0243331,
+    "lat": 52.9039976
+  },
+  {
+    "teamName": "TUSPO Bad Münder",
+    "division": 14,
+    "lon": 9.4722572,
+    "lat": 52.1931721
+  },
+  {
+    "teamName": "FC Springe",
+    "division": 14,
+    "lon": 9.5641712,
+    "lat": 52.2024934
+  },
+  {
+    "teamName": "JFV Verden\/Brunsbrock U16",
+    "division": 15,
+    "lon": 10.02315,
+    "lat": 53.41169
+  },
+  {
+    "teamName": "TV Wellingholzhausen",
+    "division": 15,
+    "lon": 8.2649122,
+    "lat": 52.1585172
+  },
+  {
+    "teamName": "JSG Dissen\/Bad Rothenfelde",
+    "division": 15,
+    "lon": 8.201969,
+    "lat": 52.1179423
+  },
+  {
+    "teamName": "TSV Weyhe-Lahausen U17 (9er)",
+    "division": 15,
+    "lon": 8.839050799999999,
+    "lat": 52.98170229999999
+  },
+  {
+    "teamName": "FC Gessel - Leerßen U17",
+    "division": 15,
+    "lon": 8.80649,
+    "lat": 52.93958
+  },
+  {
+    "teamName": "JSG Ahnsen\/Obernkirchen",
+    "division": 15,
+    "lon": 9.09347,
+    "lat": 52.25431
+  },
+  {
+    "teamName": "SC Auetal",
+    "division": 15,
+    "lon": 9.2059213,
+    "lat": 52.2371865
+  },
+  {
+    "teamName": "SV Höckelheim",
+    "division": 15,
+    "lon": 9.95918,
+    "lat": 51.7003
+  },
+  {
+    "teamName": "SV 07 Moringen (9er)",
+    "division": 15,
+    "lon": 9.8610431,
+    "lat": 51.6954641
+  },
+  {
+    "teamName": "JSG Elsfl\/G´meer\/B´fleth",
+    "division": 15,
+    "lon": 8.462072899999999,
+    "lat": 53.2397654
+  },
+  {
+    "teamName": "SVG Berne",
+    "division": 15,
+    "lon": 8.48691,
+    "lat": 53.18112
+  },
+  {
+    "teamName": "SV Atlas Delmenhorst",
+    "division": 15,
+    "lon": 8.6397355,
+    "lat": 53.0335621
+  },
+  {
+    "teamName": "TUS Varrel U17",
+    "division": 15,
+    "lon": 8.7135643,
+    "lat": 53.0310463
+  },
+  {
+    "teamName": "JSG Gifhorn Nord",
+    "division": 15,
+    "lon": 10.4735005,
+    "lat": 52.5058583
+  },
+  {
+    "teamName": "SV Gifhorn",
+    "division": 15,
+    "lon": 10.5402682,
+    "lat": 52.4690295
+  },
+  {
+    "teamName": "JSG Hagen\/Niedermark I",
+    "division": 15,
+    "lon": 7.973745099999999,
+    "lat": 52.1975559
+  },
+  {
+    "teamName": "JSG Georgsmarienhütte B 2",
+    "division": 15,
+    "lon": 8.06432,
+    "lat": 52.1957
+  },
+  {
+    "teamName": "JSG Bad Salzdetfurth 2016 U 17",
+    "division": 15,
+    "lon": 10.0107532,
+    "lat": 52.0455946
+  },
+  {
+    "teamName": "SV Groß Düngen (U16)",
+    "division": 15,
+    "lon": 10.015344,
+    "lat": 52.0946158
+  },
+  {
+    "teamName": "JSG Hambergen\/Axstedt (U17)",
+    "division": 16,
+    "lon": 8.83274,
+    "lat": 53.29333
+  },
+  {
+    "teamName": "BW Galgenmoor",
+    "division": 16,
+    "lon": 8.0124025,
+    "lat": 52.8352596
+  },
+  {
+    "teamName": "SV Bethen",
+    "division": 16,
+    "lon": 8.0547416,
+    "lat": 52.8682039
+  },
+  {
+    "teamName": "JSG Veerse U17",
+    "division": 16,
+    "lon": 9.4881849,
+    "lat": 53.1274382
+  },
+  {
+    "teamName": "SV RW Scheeßel U16",
+    "division": 16,
+    "lon": 9.4835966,
+    "lat": 53.1781825
+  },
+  {
+    "teamName": "SC Hainberg",
+    "division": 16,
+    "lon": 9.965081999999999,
+    "lat": 51.519419
+  },
+  {
+    "teamName": "FC Grone",
+    "division": 16,
+    "lon": 9.8898736,
+    "lat": 51.5299041
+  },
+  {
+    "teamName": "JFV 2011 Nenndorf II",
+    "division": 16,
+    "lon": 9.342939099999999,
+    "lat": 52.3754178
+  },
+  {
+    "teamName": "JSG Sachsenhagen\/Lindhorst\/Lüdersfeld",
+    "division": 16,
+    "lon": 9.27363,
+    "lat": 52.38641
+  },
+  {
+    "teamName": "JSG Wörpetal U17",
+    "division": 16,
+    "lon": 9.0894591,
+    "lat": 53.22180590000001
+  },
+  {
+    "teamName": "JSG Ummel U16",
+    "division": 16,
+    "lon": 9.0942417,
+    "lat": 53.2603922
+  },
+  {
+    "teamName": "JSG Auetal-Altes Amt I",
+    "division": 16,
+    "lon": 10.0561203,
+    "lat": 51.7864872
+  },
+  {
+    "teamName": "JSG Auetal-Altes Amt II (9er)",
+    "division": 16,
+    "lon": 10.106004,
+    "lat": 51.812477
+  },
+  {
+    "teamName": "JFV Kickers Hill.-Leif.",
+    "division": 16,
+    "lon": 10.3784543,
+    "lat": 52.4334604
+  },
+  {
+    "teamName": "JFV Kickers Hill.-Leif. II",
+    "division": 16,
+    "lon": 10.4363406,
+    "lat": 52.447776
+  },
+  {
+    "teamName": "Polizei SV Hannover",
+    "division": 16,
+    "lon": 9.824679999999999,
+    "lat": 52.37674999999999
+  },
+  {
+    "teamName": "HSC Hannover II",
+    "division": 16,
+    "lon": 9.7691944,
+    "lat": 52.4021712
+  },
+  {
+    "teamName": "U16 TuS Fleestedt",
+    "division": 16,
+    "lon": 9.9765354,
+    "lat": 53.4117167
+  },
+  {
+    "teamName": "U16 TV Meckelfeld",
+    "division": 16,
+    "lon": 10.0272643,
+    "lat": 53.4237109
+  },
+  {
+    "teamName": "JSG Geest (U16)",
+    "division": 17,
+    "lon": 9.3025,
+    "lat": 53.51503
+  },
+  {
+    "teamName": "TUS Seershausen",
+    "division": 17,
+    "lon": 10.3304638,
+    "lat": 52.4584772
+  },
+  {
+    "teamName": "JSG Plockhorst\/Eddesse\/Dedenhausen",
+    "division": 17,
+    "lon": 10.27656,
+    "lat": 52.43695
+  },
+  {
+    "teamName": "GW Brockdorf II",
+    "division": 17,
+    "lon": 8.178519999999999,
+    "lat": 52.65029
+  },
+  {
+    "teamName": "BW Lohne III",
+    "division": 17,
+    "lon": 8.2441463,
+    "lat": 52.641086
+  },
+  {
+    "teamName": "SV Suddendorf-Samern",
+    "division": 17,
+    "lon": 7.235749999999999,
+    "lat": 52.30095
+  },
+  {
+    "teamName": "SV Bad Bentheim II",
+    "division": 17,
+    "lon": 7.1656276,
+    "lat": 52.2961409
+  },
+  {
+    "teamName": "Tura Hechthausen U16",
+    "division": 17,
+    "lon": 9.2254195,
+    "lat": 53.6425697
+  },
+  {
+    "teamName": "SV Burweg (U16)",
+    "division": 17,
+    "lon": 9.2736847,
+    "lat": 53.6225916
+  },
+  {
+    "teamName": "SVE Wiefelstede",
+    "division": 17,
+    "lon": 8.1102593,
+    "lat": 53.2580083
+  },
+  {
+    "teamName": "FC Rastede",
+    "division": 17,
+    "lon": 8.1850044,
+    "lat": 53.2342188
+  },
+  {
+    "teamName": "JSG Adenstedt\/Gadenstedt\/Gr.Bülten\/Solschen",
+    "division": 17,
+    "lon": 10.16819,
+    "lat": 52.25080000000001
+  },
+  {
+    "teamName": "SV Teutonia Groß Lafferde\/9er",
+    "division": 17,
+    "lon": 10.2462483,
+    "lat": 52.2326238
+  },
+  {
+    "teamName": "JSG Apensen\/Harsefeld (U17)",
+    "division": 17,
+    "lon": 9.4917423,
+    "lat": 53.44562639999999
+  },
+  {
+    "teamName": "JSG A\/O\/B (U16)",
+    "division": 17,
+    "lon": 9.4417265,
+    "lat": 53.4607531
+  },
+  {
+    "teamName": "JFV Aller-Weser U16",
+    "division": 17,
+    "lon": 9.2348087,
+    "lat": 52.8973569
+  },
+  {
+    "teamName": "JSG Dauelsen\/Walle U16",
+    "division": 17,
+    "lon": 9.2392293,
+    "lat": 52.9566712
+  },
+  {
+    "teamName": "U 16 TVV Neu Wulmstorf",
+    "division": 17,
+    "lon": 9.801409999999999,
+    "lat": 53.44935
+  },
+  {
+    "teamName": "U17 TSV Elstorf",
+    "division": 17,
+    "lon": 9.7845174,
+    "lat": 53.4171513
+  },
+  {
+    "teamName": "JSG Leinetal U16",
+    "division": 18,
+    "lon": 9.6860913,
+    "lat": 52.6693674
+  },
+  {
+    "teamName": "SV GA Gebhardshagen",
+    "division": 18,
+    "lon": 10.34331,
+    "lat": 52.10125
+  },
+  {
+    "teamName": "VfL Salder",
+    "division": 18,
+    "lon": 10.340654,
+    "lat": 52.1344735
+  },
+  {
+    "teamName": "JSG Großefehn II",
+    "division": 18,
+    "lon": 7.6443853,
+    "lat": 53.36792459999999
+  },
+  {
+    "teamName": "JSG Wiesmoor",
+    "division": 18,
+    "lon": 7.72192,
+    "lat": 53.40717
+  },
+  {
+    "teamName": "JSG Nordkreis  A",
+    "division": 18,
+    "lon": 10.9340001,
+    "lat": 52.41084000000001
+  },
+  {
+    "teamName": "SV Reislingen-Neuhaus II",
+    "division": 18,
+    "lon": 10.8608665,
+    "lat": 52.4150618
+  },
+  {
+    "teamName": "U16 TSV Stelle",
+    "division": 18,
+    "lon": 10.08752,
+    "lat": 53.38165000000001
+  },
+  {
+    "teamName": "U17 TSV Eintracht Hittfeld",
+    "division": 18,
+    "lon": 9.9939715,
+    "lat": 53.388407
+  },
+  {
+    "teamName": "TUS Sulingen U17 (9er) II",
+    "division": 18,
+    "lon": 8.830090799999999,
+    "lat": 52.6803258
+  },
+  {
+    "teamName": "FC Sulingen U16",
+    "division": 18,
+    "lon": 8.8023948,
+    "lat": 52.690977
+  },
+  {
+    "teamName": "TSV Germania Lamme",
+    "division": 18,
+    "lon": 10.44782,
+    "lat": 52.26426
+  },
+  {
+    "teamName": "Lehndorfer TSV",
+    "division": 18,
+    "lon": 10.4658686,
+    "lat": 52.2778614
+  },
+  {
+    "teamName": "SSV Elze U 16",
+    "division": 18,
+    "lon": 9.74012,
+    "lat": 52.11588
+  },
+  {
+    "teamName": "TSV Gronau-Leine U16",
+    "division": 18,
+    "lon": 9.7703753,
+    "lat": 52.082597
+  },
+  {
+    "teamName": "JSG Saterland",
+    "division": 18,
+    "lon": 7.663569999999999,
+    "lat": 53.12672
+  },
+  {
+    "teamName": "JSG Ostrhauderfehn\/Holterfehn",
+    "division": 18,
+    "lon": 7.62162,
+    "lat": 53.15892
+  },
+  {
+    "teamName": "JSG Backsberg  U18 II",
+    "division": 18,
+    "lon": 9.0554022,
+    "lat": 53.1162309
+  },
+  {
+    "teamName": "TSV Dannenberg II (U16)",
+    "division": 18,
+    "lon": 9.0026563,
+    "lat": 53.1547388
+  },
+  {
+    "teamName": "U16 JSG Buchholzer FC\/JSG Jesteburg\/Bendestorf",
+    "division": 19,
+    "lon": 9.89761,
+    "lat": 53.33337
+  },
+  {
+    "teamName": "SV Viktoria Oldendorf U16",
+    "division": 19,
+    "lon": 9.243739699999999,
+    "lat": 53.27831279999999
+  },
+  {
+    "teamName": "TuS Zeven U17",
+    "division": 19,
+    "lon": 9.2870977,
+    "lat": 53.2967733
+  },
+  {
+    "teamName": "JFV Concordia U16",
+    "division": 19,
+    "lon": 9.174669999999999,
+    "lat": 53.43163999999999
+  },
+  {
+    "teamName": "Bremervörder SC U16",
+    "division": 19,
+    "lon": 9.1650823,
+    "lat": 53.4848384
+  },
+  {
+    "teamName": "SG Hohne\/Eldingen\/Höfer U17",
+    "division": 19,
+    "lon": 10.3757137,
+    "lat": 52.5942978
+  },
+  {
+    "teamName": "JSG Südheide 09 U16",
+    "division": 19,
+    "lon": 10.28297,
+    "lat": 52.6117645
+  },
+  {
+    "teamName": "SG Langförden\/Bühren",
+    "division": 19,
+    "lon": 8.250433,
+    "lat": 52.79399900000001
+  },
+  {
+    "teamName": "VfL Oythe II",
+    "division": 19,
+    "lon": 8.3005852,
+    "lat": 52.7367418
+  },
+  {
+    "teamName": "SG v. 1874 Hannover",
+    "division": 19,
+    "lon": 9.6961295,
+    "lat": 52.3821994
+  },
+  {
+    "teamName": "VfL Eintracht Hannover",
+    "division": 19,
+    "lon": 9.76132,
+    "lat": 52.351264
+  },
+  {
+    "teamName": "JSG Süd-Weser",
+    "division": 19,
+    "lon": 9.0759878,
+    "lat": 52.15588349999999
+  },
+  {
+    "teamName": "JSG Blau-Rot-Weiß",
+    "division": 19,
+    "lon": 9.11159,
+    "lat": 52.20139
+  },
+  {
+    "teamName": "JFC Nord (U16)",
+    "division": 19,
+    "lon": 9.9700911,
+    "lat": 52.2487625
+  },
+  {
+    "teamName": "JSG Ingeln-Oe.\/Gleidingen",
+    "division": 19,
+    "lon": 9.892008,
+    "lat": 52.280591
+  },
+  {
+    "teamName": "FC Syke 01 U16",
+    "division": 19,
+    "lon": 8.8208068,
+    "lat": 52.908993
+  },
+  {
+    "teamName": "JSG Heiligenfelde U17",
+    "division": 19,
+    "lon": 8.85709,
+    "lat": 52.88128
+  },
+  {
+    "teamName": "SC Groß Stöckheim",
+    "division": 19,
+    "lon": 10.5167416,
+    "lat": 52.1748195
+  },
+  {
+    "teamName": "TSV Rüningen",
+    "division": 19,
+    "lon": 10.5038763,
+    "lat": 52.2176077
+  },
+  {
+    "teamName": "U16\/9er JSG Elbdeich\/Laßrönne",
+    "division": 20,
+    "lon": 10.2340418,
+    "lat": 53.38545329999999
+  },
+  {
+    "teamName": "U17 JSG Elbdeich\/Laßrönne",
+    "division": 20,
+    "lon": 10.2340418,
+    "lat": 53.3854533
+  },
+  {
+    "teamName": "TUSV Bützfleth (U16)",
+    "division": 20,
+    "lon": 9.4697175,
+    "lat": 53.6521839
+  },
+  {
+    "teamName": "SV Drochtersen\/Assel II (U16)",
+    "division": 20,
+    "lon": 9.4292341,
+    "lat": 53.6919617
+  },
+  {
+    "teamName": "JSG Coppenbrügge\/Bisperode\/Diedersen",
+    "division": 20,
+    "lon": 9.550787699999999,
+    "lat": 52.1149903
+  },
+  {
+    "teamName": "BW Salzhemmendorf",
+    "division": 20,
+    "lon": 9.5879544,
+    "lat": 52.0714805
+  },
+  {
+    "teamName": "JSG Emmerthaler Kickers",
+    "division": 20,
+    "lon": 9.4165697,
+    "lat": 52.0157147
+  },
+  {
+    "teamName": "VFR Hehlen",
+    "division": 20,
+    "lon": 9.4741404,
+    "lat": 51.9803429
+  },
+  {
+    "teamName": "JSG Schw. Berg\/Olympia",
+    "division": 20,
+    "lon": 10.50719,
+    "lat": 52.29779
+  },
+  {
+    "teamName": "JSG Wenden\/Veltenhof",
+    "division": 20,
+    "lon": 10.51809,
+    "lat": 52.33229
+  },
+  {
+    "teamName": "SG Mehrenkamp\/ Altenoythe\/ Neuscharrel I",
+    "division": 20,
+    "lon": 7.897537,
+    "lat": 53.0372395
+  },
+  {
+    "teamName": "JSG SchEdammBäke",
+    "division": 20,
+    "lon": 7.9457168,
+    "lat": 53.0846005
+  },
+  {
+    "teamName": "JSG Wümme U16",
+    "division": 20,
+    "lon": 9.2160531,
+    "lat": 53.1160473
+  },
+  {
+    "teamName": "TV Hassendorf U17",
+    "division": 20,
+    "lon": 9.2737484,
+    "lat": 53.119858
+  },
+  {
+    "teamName": "JSG Wendezelle\/Bortfeld\/Meerdorf",
+    "division": 20,
+    "lon": 10.39859,
+    "lat": 52.3251
+  },
+  {
+    "teamName": "JSG Okertal",
+    "division": 20,
+    "lon": 10.4307637,
+    "lat": 52.3369247
+  },
+  {
+    "teamName": "TSV Bemerode II",
+    "division": 20,
+    "lon": 9.83137,
+    "lat": 52.3404
+  },
+  {
+    "teamName": "JSG Anderten\/Ahlten",
+    "division": 20,
+    "lon": 9.8513444,
+    "lat": 52.3654886
+  },
+  {
+    "teamName": "SC Hemmoor U17",
+    "division": 21,
+    "lon": 9.155628499999999,
+    "lat": 53.6883914
+  },
+  {
+    "teamName": "SC Hemmoor U16",
+    "division": 21,
+    "lon": 9.1556285,
+    "lat": 53.6883914
+  },
+  {
+    "teamName": "SG Letter 05",
+    "division": 21,
+    "lon": 9.64181,
+    "lat": 52.40615
+  },
+  {
+    "teamName": "JSG Hannover West II",
+    "division": 21,
+    "lon": 9.6693908,
+    "lat": 52.3710993
+  },
+  {
+    "teamName": "JSG Deister United",
+    "division": 21,
+    "lon": 9.33079,
+    "lat": 52.29288
+  },
+  {
+    "teamName": "TSV Algesdorf",
+    "division": 21,
+    "lon": 9.3433713,
+    "lat": 52.3225545
+  },
+  {
+    "teamName": "VFB Fallersleben II",
+    "division": 21,
+    "lon": 10.7168833,
+    "lat": 52.4105161
+  },
+  {
+    "teamName": "TSV Wolfsburg",
+    "division": 21,
+    "lon": 10.7491409,
+    "lat": 52.4062379
+  },
+  {
+    "teamName": "VFL Güldenstern Stade II (U16)",
+    "division": 21,
+    "lon": 9.476900299999999,
+    "lat": 53.58840799999999
+  },
+  {
+    "teamName": "VFL Güldenstern Stade II (U17)",
+    "division": 21,
+    "lon": 9.4925684,
+    "lat": 53.5748942
+  },
+  {
+    "teamName": "JSG Hamme (U16)",
+    "division": 21,
+    "lon": 8.9218897,
+    "lat": 53.2191602
+  },
+  {
+    "teamName": "JSG Worphausen\/SJ (U17)",
+    "division": 21,
+    "lon": 8.93935,
+    "lat": 53.19039
+  },
+  {
+    "teamName": "SC 18 Harlingerode",
+    "division": 21,
+    "lon": 10.5254604,
+    "lat": 51.9112127
+  },
+  {
+    "teamName": "TSG Bad Harzburg II",
+    "division": 21,
+    "lon": 10.5300702,
+    "lat": 51.8891801
+  },
+  {
+    "teamName": "SC Rinteln",
+    "division": 21,
+    "lon": 9.07517,
+    "lat": 52.18897
+  },
+  {
+    "teamName": "JSG Süd-Weser",
+    "division": 21,
+    "lon": 9.0759878,
+    "lat": 52.1558835
+  },
+  {
+    "teamName": "Voran Brögbern",
+    "division": 21,
+    "lon": 7.370379999999999,
+    "lat": 52.55945999999999
+  },
+  {
+    "teamName": "JSG Clusorth-Bramhar\/Bawinkel",
+    "division": 21,
+    "lon": 7.3807312,
+    "lat": 52.5896175
+  },
+  {
+    "teamName": "FSV Langwedel-Völkersen II U17",
+    "division": 22,
+    "lon": 9.19892,
+    "lat": 52.97416
+  },
+  {
+    "teamName": "JSG Gnarrenburg U17",
+    "division": 22,
+    "lon": 8.9841648,
+    "lat": 53.3708847
+  },
+  {
+    "teamName": "JSG Gnarrenburg U16 II",
+    "division": 22,
+    "lon": 8.9906876,
+    "lat": 53.3536005
+  },
+  {
+    "teamName": "SV Pennigbüttel (U16)",
+    "division": 22,
+    "lon": 8.81839,
+    "lat": 53.24753
+  },
+  {
+    "teamName": "FC Osterholz-Sch. (U16)",
+    "division": 22,
+    "lon": 8.7834941,
+    "lat": 53.2334758
+  },
+  {
+    "teamName": "SV Alfeld U17 II",
+    "division": 22,
+    "lon": 9.830212,
+    "lat": 51.97870510000001
+  },
+  {
+    "teamName": "JSG Warberg U16",
+    "division": 22,
+    "lon": 9.7941628,
+    "lat": 51.9798909
+  },
+  {
+    "teamName": "U16 Lüneburger SK Hansa",
+    "division": 22,
+    "lon": 10.4141956,
+    "lat": 53.2684125
+  },
+  {
+    "teamName": "U16 Ochtmisser SV",
+    "division": 22,
+    "lon": 10.3765594,
+    "lat": 53.2737327
+  },
+  {
+    "teamName": "VfL Wathlingen U16",
+    "division": 22,
+    "lon": 10.1386288,
+    "lat": 52.5387897
+  },
+  {
+    "teamName": "JSG Fuhsetal U17",
+    "division": 22,
+    "lon": 10.1096576,
+    "lat": 52.5550245
+  },
+  {
+    "teamName": "JSG SalzgitterNORD",
+    "division": 22,
+    "lon": 10.3458093,
+    "lat": 52.1749219
+  },
+  {
+    "teamName": "TSV Salzgitter",
+    "division": 22,
+    "lon": 10.3384628,
+    "lat": 52.1586611
+  },
+  {
+    "teamName": "SV Garßen U16",
+    "division": 22,
+    "lon": 10.1374535,
+    "lat": 52.6611695
+  },
+  {
+    "teamName": "SC Vorwerk Celle U16",
+    "division": 22,
+    "lon": 10.10564,
+    "lat": 52.65164
+  },
+  {
+    "teamName": "U16 TSV Winsen\/Luhe",
+    "division": 22,
+    "lon": 10.2066234,
+    "lat": 53.3477983
+  },
+  {
+    "teamName": "U17 JFV Borstel-Luhdorf",
+    "division": 22,
+    "lon": 10.20161,
+    "lat": 53.32701
+  },
+  {
+    "teamName": "TSV Rüningen",
+    "division": 22,
+    "lon": 10.5038763,
+    "lat": 52.21760769999999
+  },
+  {
+    "teamName": "SV Stöckheim",
+    "division": 22,
+    "lon": 10.5284,
+    "lat": 52.21215
+  },
+  {
+    "teamName": "TSV Wiepenkathen",
+    "division": 23,
+    "lon": 9.4183543,
+    "lat": 53.5820746
+  },
+  {
+    "teamName": "FC Eintracht Northeim II",
+    "division": 23,
+    "lon": 10.0115501,
+    "lat": 51.71099
+  },
+  {
+    "teamName": "JSG Nord-Kicker",
+    "division": 23,
+    "lon": 10.0209013,
+    "lat": 51.7249008
+  },
+  {
+    "teamName": "OSV Hannover (U17)",
+    "division": 23,
+    "lon": 9.7942,
+    "lat": 52.42064999999999
+  },
+  {
+    "teamName": "TSV Fortuna\/Sachsenroß",
+    "division": 23,
+    "lon": 9.7728016,
+    "lat": 52.4083173
+  },
+  {
+    "teamName": "SSV Kästorf-Warmenau (A)",
+    "division": 23,
+    "lon": 10.7731484,
+    "lat": 52.4467491
+  },
+  {
+    "teamName": "VFR Eintracht Nord",
+    "division": 23,
+    "lon": 10.79394,
+    "lat": 52.45568
+  },
+  {
+    "teamName": "JSG WNK U17",
+    "division": 23,
+    "lon": 8.6264857,
+    "lat": 53.772289
+  },
+  {
+    "teamName": "SV Spieka U17",
+    "division": 23,
+    "lon": 8.6126262,
+    "lat": 53.7612138
+  },
+  {
+    "teamName": "SG BHS B U16",
+    "division": 23,
+    "lon": 10.03173,
+    "lat": 53.09428
+  },
+  {
+    "teamName": "SG BHS B U17",
+    "division": 23,
+    "lon": 10.0640263,
+    "lat": 53.1069998
+  },
+  {
+    "teamName": "JSG Samtg. Niedernwöhren\/Enzen II",
+    "division": 23,
+    "lon": 9.15322,
+    "lat": 52.3195
+  },
+  {
+    "teamName": "SV Nienstädt 09",
+    "division": 23,
+    "lon": 9.1670433,
+    "lat": 52.2962478
+  },
+  {
+    "teamName": "JSG Ahlum\/ESV WF",
+    "division": 23,
+    "lon": 10.5903792,
+    "lat": 52.17174499999999
+  },
+  {
+    "teamName": "BVG Wolfenbüttel II",
+    "division": 23,
+    "lon": 10.5734327,
+    "lat": 52.165458
+  },
+  {
+    "teamName": "JFV Union Bad Pyrmont I",
+    "division": 23,
+    "lon": 9.2529451,
+    "lat": 51.9813035
+  },
+  {
+    "teamName": "JFV Union Bad Pyrmont II",
+    "division": 23,
+    "lon": 9.286372,
+    "lat": 51.9838243
+  },
+  {
+    "teamName": "SV Eintracht Nordhorn",
+    "division": 23,
+    "lon": 7.0789388,
+    "lat": 52.4170834
+  },
+  {
+    "teamName": "VfL Weiße Elf Nordhorn U17",
+    "division": 23,
+    "lon": 7.0383099,
+    "lat": 52.42637
+  },
+  {
+    "teamName": "U17 TuS Neetze",
+    "division": 24,
+    "lon": 10.6285094,
+    "lat": 53.2664447
+  },
+  {
+    "teamName": "1. JFC AEB Hildesheim e.V. U16",
+    "division": 24,
+    "lon": 10.0186664,
+    "lat": 52.1598475
+  },
+  {
+    "teamName": "1. JFC AEB Hildesheim e.V. U17",
+    "division": 24,
+    "lon": 10.0062366,
+    "lat": 52.1518565
+  },
+  {
+    "teamName": "TSV Arminia Vöhrum",
+    "division": 24,
+    "lon": 10.3334,
+    "lat": 52.19024
+  },
+  {
+    "teamName": "SV Lengede",
+    "division": 24,
+    "lon": 10.31312,
+    "lat": 52.2023
+  },
+  {
+    "teamName": "VFR Eintracht Nord",
+    "division": 24,
+    "lon": 10.79394,
+    "lat": 52.45568000000001
+  },
+  {
+    "teamName": "U.S.I. Lupo Martini II (A)",
+    "division": 24,
+    "lon": 10.79402,
+    "lat": 52.45216
+  },
+  {
+    "teamName": "Lindener SV",
+    "division": 24,
+    "lon": 10.5579828,
+    "lat": 52.1566672
+  },
+  {
+    "teamName": "MTV  Wolfenbüttel II",
+    "division": 24,
+    "lon": 10.5508765,
+    "lat": 52.1511708
+  },
+  {
+    "teamName": "MTV Braunschweig",
+    "division": 24,
+    "lon": 10.4754607,
+    "lat": 52.2515454
+  },
+  {
+    "teamName": "VFB RW Braunschweig",
+    "division": 24,
+    "lon": 10.4862788,
+    "lat": 52.2602377
+  },
+  {
+    "teamName": "TUSG Ritterhude II (U17)",
+    "division": 24,
+    "lon": 8.7326911,
+    "lat": 53.1858152
+  },
+  {
+    "teamName": "JSG Niedergrafschaft B1",
+    "division": 24,
+    "lon": 6.788278699999999,
+    "lat": 52.62285929999999
+  },
+  {
+    "teamName": "JSG Niedergrafschaft B2",
+    "division": 24,
+    "lon": 6.7882787,
+    "lat": 52.6228593
+  },
+  {
+    "teamName": "FC Ruthe e.V. U17",
+    "division": 24,
+    "lon": 9.84607,
+    "lat": 52.23869
+  },
+  {
+    "teamName": "FSV Sarstedt 2",
+    "division": 24,
+    "lon": 9.8424299,
+    "lat": 52.23979
+  }
+]
